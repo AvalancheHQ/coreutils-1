@@ -16,6 +16,7 @@
 [![CodeCov](https://codecov.io/gh/uutils/coreutils/branch/main/graph/badge.svg)](https://codecov.io/gh/uutils/coreutils)
 ![MSRV](https://img.shields.io/badge/MSRV-1.85.0-brightgreen)
 [![Weblate](https://hosted.weblate.org/widget/rust-coreutils/svg-badge.svg)](https://hosted.weblate.org/projects/rust-coreutils/)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/AvalancheHQ/coreutils-1?utm_source=badge)
 
 </div>
 
